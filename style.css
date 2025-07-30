@@ -1,0 +1,62 @@
+.toparea{
+    background-image:url('bgimg.png');
+    color:white;
+    padding-bottom:300px;
+    text-align: center;
+    bottom:80%;
+    
+}
+.toprow{
+    margin-top:10px;
+}
+.toparea h2{
+    margin:20px;
+}
+
+.searcharea{
+    background-image:url('searchimg.png');
+    padding:100px;
+    text-align:center;
+}
+.imgarea1{
+    width:100%;
+    padding:30px;
+    text-align: center;
+}
+.imgarea1 img{
+    width:100%;
+    padding:10px;
+}
+
+.lastsection{
+    padding:50px;
+    background:white;
+}
+
+
+.footerarea{
+    padding:50px;
+    background:#014B40;
+    color:white;
+}
+.footerarea ul li, a{
+    text-decoration:none;
+    list-style: none;
+}
+#email{
+    padding:10px;
+    background:rgb(17, 141, 118);
+    border-radius:5%;
+}
+
+#email img{
+    padding:10px;
+    background:rgb(11, 49, 49);
+    margin-left:35%;
+    border-radius:5%;
+}
+.lastrow{
+    width:100%;
+    background:red;
+    text-align: center;
+}
